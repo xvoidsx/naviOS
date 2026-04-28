@@ -17,6 +17,8 @@ It follows the [Serial Experiments Lain](#) aesthetic, and also uses our [nights
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3213b2fb-9473-4b40-bc23-ba5c4e9de6e6" />
 
+<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/32e39ad7-7515-42e3-a7cd-bf9aa4171cdb" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46ddd97e-e66d-43f0-9898-c5d98f144c3a" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cc456b68-e02d-4e7a-b89f-4f2ee5745f2d" />
