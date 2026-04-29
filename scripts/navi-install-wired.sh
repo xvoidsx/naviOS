@@ -11,3 +11,4 @@ repo="https://github.com/rav3ndust/wiredWM"
 git clone "$repo"
 cd wiredWM/scripts-config
 chmod +x installer.sh; bash installer.sh &
+cd -
