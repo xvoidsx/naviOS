@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# navi-install-wired
+# ( navi-install-wired )
 # installs the wiredWM environment and all of its utilities
 # also configures all config files and builds/installations
 # TODO ! some of how this is handled is going to be refactored soon
