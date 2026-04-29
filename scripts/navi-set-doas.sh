@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# navi-set-doas
+# ( navi-set-doas )
 # installs and configures doas - we prefer it over sudo
 doas_conf="/etc/doas.conf"
 sudo apt update && sudo apt install opendoas -y
