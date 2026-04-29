@@ -11,9 +11,11 @@ It aims to embrace the uniqueness of Linux and provide a futuristic and yet retr
 
 It follows the [Serial Experiments Lain](#) aesthetic, and also uses our [nightshadeNeon](https://rav3ndust.xyz/wiki/nightshadeNeon.html) theme all throughout the distro.
 
-### cozy
+### cozy computing
 
 **naviOS** brings you the minimalism and speed you can only get in a tiling environment, and it looks and feels great to live in. Here are some screenshots of it in day to day use.
+
+A cozy computing environment is one that you look forward to using when you sit down at the computer. Not only does it feel good and functional to use, but it also looks beautiful as well! If you're going to be using your computer for hours every day doing work and play, don't you want to use a system that invites you to *have fun* while you do so?
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3213b2fb-9473-4b40-bc23-ba5c4e9de6e6" />
 
