@@ -25,6 +25,8 @@ A cozy computing environment is one that you look forward to using when you sit 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46ddd97e-e66d-43f0-9898-c5d98f144c3a" />
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/36c3778b-e950-42b2-8ff5-0e6c7581a05c" />
+
 ### notes
 
 This repo is a work in progress, and things are being moved over and tweaked before we begin making public releases of naviOS. A website for the distro is in the works right now, and `.iso` images are planned in the future once we've got some things wrapped up - we will announce it as soon as these things are finished up and ready to go!
