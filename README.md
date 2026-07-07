@@ -1,5 +1,5 @@
 # naviOS
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d1366ff6-f228-48b6-81bb-95e6f74037ff" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aef2471a-9c9f-423c-bf61-61aa3ba1fe03" />
 
 **naviOS** is a new GNU/Linux distribution from your friends at [xvoidsx](https://github.com/xvoidsx).
 
@@ -17,11 +17,9 @@ It follows the [Serial Experiments Lain](#) aesthetic, and also uses our [nights
 
 A cozy computing environment is one that you look forward to using when you sit down at the computer. Not only does it feel good and functional to use, but it also looks beautiful as well! If you're going to be using your computer for hours every day doing work and play, don't you want to use a system that invites you to *have fun* while you do so?
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7d9f527a-6832-4e28-b70f-dfe6a67e8926" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f558b813-91e8-47c6-ab0e-c67ffb4a1d6d" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf82440a-ab73-46c4-9e7e-42ea3365e405" />
-
-<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/32e39ad7-7515-42e3-a7cd-bf9aa4171cdb" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46ddd97e-e66d-43f0-9898-c5d98f144c3a" />
 
