@@ -19,11 +19,11 @@ A cozy computing environment is one that you look forward to using when you sit 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f558b813-91e8-47c6-ab0e-c67ffb4a1d6d" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf82440a-ab73-46c4-9e7e-42ea3365e405" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6aedbb2b-6c61-4871-8b17-06eb7f8f9bd8" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46ddd97e-e66d-43f0-9898-c5d98f144c3a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d322ab5-d128-4059-84f9-9069408c3fe7" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/36c3778b-e950-42b2-8ff5-0e6c7581a05c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8c691eae-3e1b-4983-bab5-ff9c695dde0a" />
 
 ### notes
 
